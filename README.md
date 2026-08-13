@@ -7,16 +7,18 @@ Each challenge of 100 Java prgoramming challenges and solutions designed to stre
 ---
 ## What's Inside?
 
-javaArays <br>
-javaBasicStructure <br>
-javaControlStatements <br>
-javaDialogBox <br>
-javaErrorHandling <br>
-javaLocalAndGlobalVariables <br>
-javaLoops <br>
-javaMethods <br>
-javaOperators <br>
-javaVariablesAndDataTypes <br>
+📦 100-Java-Fundamentals-Drills
+│
+├── 📁 javaArrays <br>
+├── 📁 javaBasicStructure<br>
+├── 📁 javaControlStatements<br>
+├── 📁 javaDialogBox<br>
+├── 📁 javaErrorHandling<br>
+├── 📁 javaLocalAndGlobalVariables<br>
+├── 📁 javaLoops<br>
+├── 📁 javaMethods<br>
+├── 📁 javaOperators<br>
+└── 📁 javaVariablesAndDataTypes<br>
 
 ---
 ## Learning Objectives
@@ -47,11 +49,28 @@ By completing the 100 challenges in this repository, you will practice:<br>
 - Object-Oriented Programming concepts<br>
 
 ---
+## Challenge Progress
+
+| # | Package | Progress |
+|:---:|:---|:---:|
+| 01 | javaArrays | 0 / 10 |
+| 02 | javaBasicStructure | 0 / 10 |
+| 03 | javaControlStatements | 0 / 10 |
+| 04 | javaDialogBox | 0 / 10 |
+| 05 | javaErrorHandling | 0 / 10 |
+| 06 | javaLocalAndGlobalVariables | 0 / 10 |
+| 07 | javaLoops | 0 / 10 |
+| 08 | javaMethods | 0 / 10 |
+| 09 | javaOperators | 0 / 10 |
+| 10 | javaVariablesAndDataTypes | 0 / 10 |
+| TOTAL | 100 Challenges | 0 / 100 |
+---
 ## Purpose
 
 This repository serves as a personal Java fundamentals practice portfolio, documentaing my progress from basic Java syntax toward more structures problem-solving and programming concepts. <br>
+
 Each challenge contains:<br>
-Problem Java Code Solution <br>
+Problem → Java Code → Solution <br>
 The repository is intended for learning, practice, review and reference.
 
 ---
