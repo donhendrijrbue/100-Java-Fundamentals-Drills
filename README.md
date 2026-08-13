@@ -72,7 +72,7 @@ xychart-beta
     title "Java Fundamentals Challenge Progress"
     x-axis ["Arrays", "Structure", "Control", "Dialog", "Errors", "Variables", "Loops", "Methods", "Operators", "Data Types"]
     y-axis "Completed Problems" 0 --> 10
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [10, 7, 1, 3, 5, 2, 9, 6, 8, 7]
 ```
 ---
 ## Purpose
