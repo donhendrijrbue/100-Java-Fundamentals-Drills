@@ -6,43 +6,43 @@ Each challenge of 100 Java prgoramming challenges and solutions designed to stre
 ---
 ## What's Inside?
 ---
-📁javaArays <br>
-📁javaBasicStructure <br>
-📁javaControlStatements <br>
-📁javaDialogBox <br>
-📁javaErrorHandling <br>
-📁javaLocalAndGlobalVariables <br>
-📁javaLoops <br>
-📁javaMethods <br>
-📁javaOperators <br>
-📁javaVariablesAndDataTypes <br>
+javaArays <br>
+javaBasicStructure <br>
+javaControlStatements <br>
+javaDialogBox <br>
+javaErrorHandling <br>
+javaLocalAndGlobalVariables <br>
+javaLoops <br>
+javaMethods <br>
+javaOperators <br>
+javaVariablesAndDataTypes <br>
 ---
 ## Learning Objectives
 ---
-By completing the 100 challenges in this repository, you will practice:
-Java syntax and program structure
-Variables and data types
-User input and output
-Arithmetic and logical operators
-Conditional statements
-Loops and nested loops
-Arrays
-Methods
-Variable scope
-Static and instance variables
-JOptionPane dialog boxes
-Exception handling
-Basic problem-solving
-Writing reusable Java code
+By completing the 100 challenges in this repository, you will practice:<br>
+Java syntax and program structure<br>
+Variables and data types<br>
+User input and output<br>
+Arithmetic and logical operators<br>
+Conditional statements<br>
+Loops and nested loops<br>
+Arrays<br>
+Methods<br>
+Variable scope<br>
+Static and instance variables<br>
+JOptionPane dialog boxes<br>
+Exception handling<br>
+Basic problem-solving<br>
+Writing reusable Java code<br>
 
 ---
 ## Technologies Used
 ---
-Java
-Java SE 21
-Eclipse IDE
-JOptionPane
-Object-Oriented Programming concepts
+Java<br>
+Java SE 21<br>
+Eclipse IDE<br>
+JOptionPane<br>
+Object-Oriented Programming concepts<br>
 
 ---
 ## Purpose
