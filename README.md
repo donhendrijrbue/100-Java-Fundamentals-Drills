@@ -90,6 +90,12 @@ The repository is intended for learning, practice, review and reference.
 BS Information Technology Student<br>
 Java Programming Practice Repository<br>
 
+
+---
+## Date Started Writing this Code
+
+August 13. 2026 
+
 ---
 If you find this repository useful, feel free to star it!
 
