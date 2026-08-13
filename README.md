@@ -8,7 +8,7 @@ Each challenge of 100 Java prgoramming challenges and solutions designed to stre
 ## What's Inside?
 
 📦 100-Java-Fundamentals-Drills <br>
-│
+│<br>
 ├── 📁 javaArrays <br>
 ├── 📁 javaBasicStructure<br>
 ├── 📁 javaControlStatements<br>
