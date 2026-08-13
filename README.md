@@ -7,7 +7,7 @@ Each challenge of 100 Java prgoramming challenges and solutions designed to stre
 ---
 ## What's Inside?
 
-📦 100-Java-Fundamentals-Drills
+📦 100-Java-Fundamentals-Drills <br>
 │
 ├── 📁 javaArrays <br>
 ├── 📁 javaBasicStructure<br>
@@ -64,6 +64,16 @@ By completing the 100 challenges in this repository, you will practice:<br>
 | 09 | javaOperators | 0 / 10 |
 | 10 | javaVariablesAndDataTypes | 0 / 10 |
 | TOTAL | 100 Challenges | 0 / 100 |
+---
+## Tracker
+
+```mermaid
+xychart-beta
+    title "Java Fundamentals Challenge Progress"
+    x-axis ["Arrays", "Structure", "Control", "Dialog", "Errors", "Variables", "Loops", "Methods", "Operators", "Data Types"]
+    y-axis "Completed Problems" 0 --> 10
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+```
 ---
 ## Purpose
 
