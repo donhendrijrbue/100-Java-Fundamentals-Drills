@@ -1,21 +1,21 @@
 # 100-Java-Fundamentals-Drills
 > 100 problems. 10 topics. 1 Java foundation.
 
-A collection of 100 Java programming challenges and solutions designed to strengthen fundamental programming skills through hands-on problem solving.
+A collection of **100 Java programming challenges and solutions** designed to strengthen fundamental programming skills through hands-on problem solving.
 
-Each challenge includes a corresponding Java source code solution, organized into 10 topic-based packages — progressing from basic syntax and variables to arrays, loops, methods, error handling, and dialog boxes.
+Each challenge of 100 Java prgoramming challenges and solutions designed to strenthen fundamental programming skils through hands-on problem solving.
 ---
 ## What's Inside?
-📁 javaArrays <br>
-📁 javaBasicStructure  <br>
-📁 javaControlStatements  <br>
-📁 javaDialogBox  <br>
-📁 javaErrorHandling  <br>
-📁 javaLocalAndGlobalVariables  <br>
-📁 javaLoops  <br>
-📁 javaMethods  <br>
-📁 javaOperators  <br>
-📁 javaVariablesAndDataTypes
+📁javaArays <br>
+📁javaBasicStructure <br>
+📁javaControlStatements <br>
+📁javaDialogBox <br>
+📁javaErrorHandling <br>
+📁javaLocalAndGlobalVariables <br>
+📁javaLoops <br>
+📁javaMethods <br>
+📁javaOperators <br>
+📁javaVariablesAndDataTypes <br>
 ---
 ## Learning Objectives
 ---
