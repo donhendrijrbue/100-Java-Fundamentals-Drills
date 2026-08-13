@@ -4,19 +4,27 @@
 A collection of 100 Java programming challenges and solutions designed to strengthen fundamental programming skills through hands-on problem solving.
 
 Each challenge includes a corresponding Java source code solution, organized into 10 topic-based packages — progressing from basic syntax and variables to arrays, loops, methods, error handling, and dialog boxes.
-
 ---
-## 📦 What's Inside?
+## What's Inside?
+📁 javaArrays
+📁 javaBasicStructure
+📁 javaControlStatements
+📁 javaDialogBox
+📁 javaErrorHandling
+📁 javaLocalAndGlobalVariables
+📁 javaLoops
+📁 javaMethods
+📁 javaOperators
+📁 javaVariablesAndDataTypes
+
 ---
 ## Learning Objectives
 ---
 ## Technologies Used
 ---
-## Challenge Progress
----
 ## Purpose
 ---
 ## Author
 ---
-⭐️ If you find this repository useful, feel free to star it!
----
+If you find this repository useful, feel free to star it!
+
