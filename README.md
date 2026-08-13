@@ -11,3 +11,12 @@ Each challenge includes a corresponding Java source code solution, organized int
 ## Learning Objectives
 ---
 ## Technologies Used
+---
+## Challenge Progress
+---
+## Purpose
+---
+## Author
+---
+⭐️ If you find this repository useful, feel free to star it!
+---
