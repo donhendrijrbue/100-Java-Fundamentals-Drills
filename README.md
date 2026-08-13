@@ -3,6 +3,7 @@
 ---
 A collection of **100 Java programming challenges and solutions** designed to strengthen fundamental programming skills through hands-on problem solving.
 Each challenge of 100 Java prgoramming challenges and solutions designed to strenthen fundamental programming skils through hands-on problem solving.
+
 ---
 ## What's Inside?
 ---
@@ -16,6 +17,7 @@ javaLoops <br>
 javaMethods <br>
 javaOperators <br>
 javaVariablesAndDataTypes <br>
+
 ---
 ## Learning Objectives
 ---
@@ -51,12 +53,15 @@ This repository serves as a personal Java fundamentals practice portfolio, docum
 Each challenge contains:<br>
 Problem Java Code Solution
 The repository is intended for learning, practice, review and reference.
+
 ---
 ## Author
 ---
-**Henry Jr Bue**
-BS Information Technology Student
-Java Programming Practice Repository
+**Henry Jr Bue** <br>
+BS Information Technology Student<br>
+Java Programming Practice Repository<br>
+
 ---
 If you find this repository useful, feel free to star it!
+
 
