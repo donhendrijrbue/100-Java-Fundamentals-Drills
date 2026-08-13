@@ -1,6 +1,6 @@
 # 100-Java-Fundamentals-Drills
 > 100 problems. 10 topics. 1 Java foundation.
-
+---
 A collection of **100 Java programming challenges and solutions** designed to strengthen fundamental programming skills through hands-on problem solving.
 Each challenge of 100 Java prgoramming challenges and solutions designed to strenthen fundamental programming skils through hands-on problem solving.
 ---
@@ -38,8 +38,8 @@ Writing reusable Java code<br>
 ---
 ## Technologies Used
 ---
-Java<br>
-Java SE 21<br>
+- Java<br>
+-Java SE 21<br>
 Eclipse IDE<br>
 JOptionPane<br>
 Object-Oriented Programming concepts<br>
@@ -47,6 +47,7 @@ Object-Oriented Programming concepts<br>
 ---
 ## Purpose
 ---
+
 ---
 ## Author
 ---
