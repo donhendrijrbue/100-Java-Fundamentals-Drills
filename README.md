@@ -1,5 +1,5 @@
 # 100-Java-Fundamentals-Drills
-> **100 problems. 10 topics. 1 Java foundation.
+> 100 problems. 10 topics. 1 Java foundation.
 
 A collection of 100 Java programming challenges and solutions designed to strengthen fundamental programming skills through hands-on problem solving.
 
@@ -22,10 +22,12 @@ Each challenge includes a corresponding Java source code solution, organized int
 ├── 📁 javaMethods
 ├── 📁 javaOperators
 └── 📁 javaVariablesAndDataTypes
+---
 
-⸻
+## 🎯 Learning Objectives
 
-🎯 Learning Objectives
+---
+
 By completing the 100 challenges in this repository, you will practice:
 Java syntax and program structure
 Variables and data types
@@ -42,7 +44,7 @@ Exception handling
 Basic problem-solving
 Writing reusable Java code
 
-⸻
+---
 
 💻 Technologies Used
 Java
@@ -51,7 +53,7 @@ Eclipse IDE
 JOptionPane
 Object-Oriented Programming concepts
 
-⸻
+---
 
 📈 Challenge Progress
 Package
@@ -79,7 +81,7 @@ javaVariablesAndDataTypes
 TOTAL
 0/100
 
-⸻
+---
 
 🚀 Purpose
 This repository serves as a personal Java fundamentals practice portfolio, documenting my progress from basic Java syntax toward more structured problem-solving and programming concepts.
@@ -87,13 +89,13 @@ Each challenge contains:
 Problem → Java Code → Solution
 The repository is intended for learning, practice, review, and reference.
 
-⸻
+---
 
 👨‍💻 Author
 Henry Jr. Bue
 BS Information Technology Student
 Java Programming Practice Repository
 
-⸻
+---
 
 ⭐️ If you find this repository useful, feel free to star it!
