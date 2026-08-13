@@ -6,17 +6,16 @@ A collection of 100 Java programming challenges and solutions designed to streng
 Each challenge includes a corresponding Java source code solution, organized into 10 topic-based packages — progressing from basic syntax and variables to arrays, loops, methods, error handling, and dialog boxes.
 ---
 ## What's Inside?
-📁 javaArrays
-📁 javaBasicStructure
-📁 javaControlStatements
-📁 javaDialogBox
-📁 javaErrorHandling
-📁 javaLocalAndGlobalVariables
-📁 javaLoops
-📁 javaMethods
-📁 javaOperators
+📁 javaArrays <br>
+📁 javaBasicStructure  <br>
+📁 javaControlStatements  <br>
+📁 javaDialogBox  <br>
+📁 javaErrorHandling  <br>
+📁 javaLocalAndGlobalVariables  <br>
+📁 javaLoops  <br>
+📁 javaMethods  <br>
+📁 javaOperators  <br>
 📁 javaVariablesAndDataTypes
-
 ---
 ## Learning Objectives
 ---
