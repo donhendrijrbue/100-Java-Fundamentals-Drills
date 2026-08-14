@@ -1,9 +1,8 @@
 # 100-Java-Fundamentals-Drills
 > 100 problems. 10 topics. 1 Java foundation.
 
-A collection of **100 Java programming challenges and solutions** designed to strengthen fundamental programming skills through hands-on problem solving.
-Each challenge of 100 Java prgoramming challenges and solutions designed to strenthen fundamental programming skils through hands-on problem solving.
-
+A collection of **100 Java programming practice problems and solutions** created to help students learn, practice and review Java fundamentals through hands-on coding. 
+Whether you're just starting Java or reviewing the basics, you can use this repository as a learning refernece and practice resource. 
 ---
 ## What's Inside?
 
@@ -21,9 +20,9 @@ Each challenge of 100 Java prgoramming challenges and solutions designed to stre
 └── 📁 javaVariablesAndDataTypes<br>
 
 ---
-## Learning Objectives
+## What You'll Practice
 
-By completing the 100 challenges in this repository, you will practice:<br>
+This repository covers fundamental concepts such as:<br>
 - Java syntax and program structure<br>
 - Variables and data types<br>
 - User input and output<br>
@@ -40,16 +39,15 @@ By completing the 100 challenges in this repository, you will practice:<br>
 - Writing reusable Java code<br>
 
 ---
-## Technologies Used
+## Technologies 
 
-- Java<br>
-- Java SE 21<br>
-- Eclipse IDE<br>
-- JOptionPane<br>
-- Object-Oriented Programming concepts<br>
+- **Java SE 21**<br>
+- **Eclipse IDE**<br>
+- **JOptionPane**<br>
+- Basic **Object-Oriented Programming** concepts<br>
 
 ---
-## Challenge Progress
+## Uploading Progress
 
 | # | Package | Progress |
 |:---:|:---|:---:|
@@ -65,36 +63,39 @@ By completing the 100 challenges in this repository, you will practice:<br>
 | 10 | javaVariablesAndDataTypes | 0 / 10 |
 | TOTAL | 100 Challenges | 0 / 100 |
 ---
-## Tracker
-
-```mermaid
-xychart-beta
-    title "Java Fundamentals Challenge Progress"
-    x-axis ["Arrays", "Structure", "Control", "Dialog", "Errors", "Variables", "Loops", "Methods", "Operators", "Data Types"]
-    y-axis "Completed Problems" 0 --> 10
-    bar [10, 7, 1, 3, 5, 2, 9, 6, 8, 7]
-```
+ > This repository is a work in progress. I'll continue adding and completing problems as I progress through my Java fundamentals.
 ---
-## Purpose
-
-This repository serves as a personal Java fundamentals practice portfolio, documentaing my progress from basic Java syntax toward more structures problem-solving and programming concepts. <br>
-
+## How Each Problem Works
 Each challenge contains:<br>
 Problem → Java Code → Solution <br>
-The repository is intended for learning, practice, review and reference.
+The goal isn't just to copy the code. Try solving the problem yourself first, then use the solution as a **reference** to compare your approach.
+
+> Tip: If you're learning Java, pick a topic, try the problems one by one, and come back to the solutions whenever you get stuck.
+
+---
+## Who is This For? 
+
+This repository may be useful for: <br>
+- Students learning Java
+- Beginners practicing programming fundamentals
+- Students reviewing Java before exams
+- Anyone looking for simple Java program references
+- Developers who want to referesh their Java basics
+
+---
+## Why I Created This
+I created this repository to practice Java fundamentals while building a useful reference for other students. <br>
+Instead of keeping my practice programs on my computer, I'm organizng them here so other students can learn from them, review the code and use the probelsm as practice. <br>
+This is also a record of my journey from learning the basics becoming a better programmer.
 
 ---
 ## Author
 
-**Henry Jr Bue** <br>
-BS Information Technology Student<br>
-Java Programming Practice Repository<br>
+**Henry Jr. Bue **
+BS Information Technology Student
+Java Programming Practice Repository
 
-
----
-## Date Started Writing this Code
-
-August 13. 2026 
+**Started**: August 13, 2026
 
 ---
 If you find this repository useful, feel free to star it!
