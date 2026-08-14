@@ -97,7 +97,7 @@ BS Information Technology Student<br>
 Java Programming Practice Repository<br>
 
 **Started**: August 13, 2026
-> **Edit History: **
+> **Edit History** :
 - Added javaBasicStrucutre and javaVariablesAndDataTypes: August 14, 2026
 
 ---
