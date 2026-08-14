@@ -9,16 +9,16 @@ Whether you're just starting Java or reviewing the basics, you can use this repo
 
 📦 100-Java-Fundamentals-Drills <br>
 │<br>
-├── 📁 javaArrays <br>
-├── 📁 javaBasicStructure<br>
-├── 📁 javaControlStatements<br>
-├── 📁 javaDialogBox<br>
-├── 📁 javaErrorHandling<br>
-├── 📁 javaLocalAndGlobalVariables<br>
-├── 📁 javaLoops<br>
+├── 📁 javaBasicStructure  <br>
+├── 📁 javaVariablesAndDataTypes <br>
+├── 📁 javaOperators <br>
+├── 📁 javaControlStatements <br>
+├── 📁 javaLoops <br>
 ├── 📁 javaMethods<br>
-├── 📁 javaOperators<br>
-└── 📁 javaVariablesAndDataTypes<br>
+├── 📁 javaArrays <br>
+├── 📁 javaLocalAndGlobalVariables  <br>
+├── 📁 javaErrorHandling<br>
+└── 📁 javaDialogBoxProgram <br>
 
 ---
 ## What You'll Practice
@@ -52,16 +52,16 @@ This repository covers fundamental concepts such as:<br>
 
 | # | Package | Progress |
 |:---:|:---|:---:|
-| 01 | javaArrays | 0 / 10 |
-| 02 | javaBasicStructure | 0 / 10 |
-| 03 | javaControlStatements | 0 / 10 |
-| 04 | javaDialogBox | 0 / 10 |
-| 05 | javaErrorHandling | 0 / 10 |
-| 06 | javaLocalAndGlobalVariables | 0 / 10 |
-| 07 | javaLoops | 0 / 10 |
-| 08 | javaMethods | 0 / 10 |
-| 09 | javaOperators | 0 / 10 |
-| 10 | javaVariablesAndDataTypes | 0 / 10 |
+| 01 | javaBasicStructure | 0 / 10 |
+| 02 | javaVariablesAndDataTypes | 0 / 10 |
+| 03 | javaOperators | 0 / 10 |
+| 04 | javaControlStatements | 0 / 10 |
+| 05 | javaLoops | 0 / 10 |
+| 06 | javaMethods | 0 / 10 |
+| 07 | javaArrays | 0 / 10 |
+| 08 | javaLocalAndGlobalVariables | 0 / 10 |
+| 09 | javaErrorHandling | 0 / 10 |
+| 10 | javaDialogBoxProgram | 0 / 10 |
 | TOTAL | 100 Challenges | 0 / 100 |
 ---
  > This repository is a work in progress. I'll continue adding and completing problems as I progress through my Java fundamentals.
