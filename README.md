@@ -52,8 +52,8 @@ This repository covers fundamental concepts such as:<br>
 
 | # | Package | Progress |
 |:---:|:---|:---:|
-| 01 | javaBasicStructure | 0 / 10 |
-| 02 | javaVariablesAndDataTypes | 0 / 10 |
+| 01 | javaBasicStructure | 10 / 10 |
+| 02 | javaVariablesAndDataTypes | 10 / 10 |
 | 03 | javaOperators | 0 / 10 |
 | 04 | javaControlStatements | 0 / 10 |
 | 05 | javaLoops | 0 / 10 |
@@ -93,8 +93,8 @@ This is also a record of my journey from learning the basics becoming a better p
 ## Author
 
 **Henry Jr. Bue** <br>
-BS Information Technology Student
-Java Programming Practice Repository
+BS Information Technology Student<br>
+Java Programming Practice Repository<br>
 
 **Started**: August 13, 2026
 
