@@ -3,6 +3,7 @@
 
 A collection of **100 Java programming practice problems and solutions** created to help students learn, practice and review Java fundamentals through hands-on coding. 
 Whether you're just starting Java or reviewing the basics, you can use this repository as a learning refernece and practice resource. 
+
 ---
 ## What's Inside?
 
@@ -91,7 +92,7 @@ This is also a record of my journey from learning the basics becoming a better p
 ---
 ## Author
 
-**Henry Jr. Bue **
+**Henry Jr. Bue** <br>
 BS Information Technology Student
 Java Programming Practice Repository
 
